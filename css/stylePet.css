@@ -1,0 +1,36 @@
+HTML,
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #30D1E5;
+}
+
+/* style canvas */
+#myCanvas {
+    padding: 0;
+    margin: 0 auto;
+    margin-top: 1rem;
+    display: block;
+    background-color: whitesmoke;
+}
+
+/* container style, js:canvas2 */
+#container {
+    padding: 0;
+    margin: 0 auto;
+     margin-top: 0.5rem;
+    width: 400px;
+    height: 100px;
+    display: block;
+    background-color: lavenderblush;
+}
+/* style button */
+.style_button{
+    width: 70px;
+    height: 20px;
+    background-color: palevioletred;
+}
+footer {
+  text-align: center;
+}
